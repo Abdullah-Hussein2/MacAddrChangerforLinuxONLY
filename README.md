@@ -1,2 +1,2 @@
 # MacAddrChangerforLinuxONLY
-this is mac address changer pythin script  
+this is mac address changer python script  
